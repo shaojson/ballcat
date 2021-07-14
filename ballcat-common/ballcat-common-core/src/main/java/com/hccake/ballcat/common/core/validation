@@ -1,0 +1,12 @@
+package com.hccake.ballcat.common.core.validation;
+
+import javax.validation.groups.Default;
+
+/**
+ * @author shaoqiang
+ * @version 1.0
+ * @description TODO 类描述
+ * @date 2021/7/14 7:59
+ */
+public interface Save extends Default {
+}
